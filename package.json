@@ -1,0 +1,22 @@
+{
+    "name" : "fis-optimizer-html-minifier",
+    "description" : "A optimizer for fis/fis3 to compress html by using html-minifier.",
+    "version" : "0.0.1",
+    "author" : "github-zhang",
+    "homepage" : "https://github.com/github-zhang",
+    "keywords": [ "fis" ,"fis3","fis-optimizer-html-minifier","html-minifier"],
+    "main" : "index.js",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/github-zhang/fis-optimizer-clean-css.git"
+    },
+    "engines" : {
+        "node" : ">= 0.8.0"
+    },
+    "scripts" : {
+        
+    },
+    "dependencies" : {
+        "html-minifier" : ""
+    }
+}
